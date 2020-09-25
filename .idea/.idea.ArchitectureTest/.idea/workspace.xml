@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15a42bbc-baf9-4f49-b12c-76eb4213cee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NavigateWhenPressingSpace.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Death.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TopScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrickType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleBrick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IBrick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameInteractor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoubleBrick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GoBackToMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrikController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NavigateWhenPressingSpace.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hYdoMRVarhtJBaQNampXerkl1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a42bbc-baf9-4f49-b12c-76eb4213cee0" name="Default Changelist" comment="" />
+      <created>1600192135863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600192135863</updated>
+      <workItem from="1600192154566" duration="1190000" />
+      <workItem from="1600193913024" duration="1489000" />
+      <workItem from="1600195887155" duration="467000" />
+      <workItem from="1600198106161" duration="1463000" />
+      <workItem from="1600199939359" duration="963000" />
+      <workItem from="1600290409540" duration="327000" />
+      <workItem from="1600452925781" duration="1037000" />
+      <workItem from="1600454906057" duration="1427000" />
+      <workItem from="1600456769427" duration="1642000" />
+      <workItem from="1600459117130" duration="1782000" />
+      <workItem from="1600461002699" duration="1761000" />
+      <workItem from="1600462842020" duration="1191000" />
+      <workItem from="1600906653574" duration="503000" />
+      <workItem from="1600967760062" duration="616000" />
+      <workItem from="1600970055340" duration="865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="221" key="RiderGenerateDialog" timestamp="1600462866020">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="405" y="221" key="RiderGenerateDialog/-900.23.900.1577/0.23.1792.1026@0.23.1792.1026" timestamp="1600462866020" />
+    <state width="498" height="444" key="SwitcherDM" timestamp="1600968139785">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="498" height="444" key="SwitcherDM/-900.23.900.1577/0.23.1792.1026@0.23.1792.1026" timestamp="1600968139785" />
+    <state width="498" height="445" key="SwitcherDM/-900.23.900.1577/0.23.1792.1030@0.23.1792.1030" timestamp="1600200441749" />
+    <state x="100" y="123" width="1287" height="830" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600200286362">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="100" y="123" width="1287" height="830" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-900.23.900.1577/0.23.1792.1030@0.23.1792.1030" timestamp="1600200286362" />
+    <state x="406" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1600906682283">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="406" y="248" width="672" height="678" key="search.everywhere.popup/-900.23.900.1577/0.23.1792.1026@0.23.1792.1026" timestamp="1600906682283" />
+  </component>
+</project>
